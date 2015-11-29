@@ -24,7 +24,7 @@ public class BlockSound extends Block{
         super(Material.tnt);
         setCreativeTab(CreativeTabs.tabDecorations);
         setBlockName(ExampleMod.MODID + "_" + "blocksound");
-        setBlockTextureName(ExampleMod.MODID+":"+"musicbox");
+        setBlockTextureName(ExampleMod.MODID+":"+"soundblock");
         setHardness(3.0f);
         setResistance(30.0f);
     }
