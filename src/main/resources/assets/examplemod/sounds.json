@@ -1,0 +1,21 @@
+{
+  "Sound0": {
+    "category": "player",
+    "sounds": [
+      "Sound0"
+    ]
+  },
+
+  "Sound1": {
+    "category": "player",
+    "sounds": [
+      "Sound1"
+    ]
+  },
+  "Sound2": {
+    "category": "player",
+    "sounds": [
+      "Sound2"
+    ]
+  }
+}

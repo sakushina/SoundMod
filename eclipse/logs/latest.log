@@ -1,0 +1,30 @@
+[21:16:17] [main/INFO]: Setting user: Player874
+[21:16:18] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:16:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[21:16:23] [Sound Library Loader/INFO]: Sound engine started
+[21:16:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:16:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:16:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[21:16:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:16:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:16:25] [Sound Library Loader/INFO]: Sound engine started
+[21:16:33] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:16:33] [Server thread/INFO]: Generating keypair
+[21:16:33] [Server thread/INFO]: Preparing start region for level 0
+[21:16:34] [Server thread/INFO]: Preparing spawn area: 84%
+[21:16:35] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:16:35] [Server thread/INFO]: Player874[local:E:ebca9dd3] logged in with entity id 150 at (835.9071717613823, 69.0, 650.6999999880791)
+[21:16:35] [Server thread/INFO]: Player874 joined the game
+[21:16:53] [Client thread/INFO]: [CHAT] 3番目の曲に変更しました
+[21:16:54] [Client thread/INFO]: [CHAT] 1番目の曲に変更しました
+[21:16:55] [Client thread/INFO]: [CHAT] 2番目の曲に変更しました
+[21:16:56] [Client thread/INFO]: [CHAT] 2番目の曲を再生中です
+[21:17:03] [Client thread/INFO]: Stopping!
+[21:17:03] [Server thread/INFO]: Stopping server
+[21:17:03] [Server thread/INFO]: Saving players
+[21:17:03] [Server thread/INFO]: Saving worlds
+[21:17:03] [Server thread/INFO]: Saving chunks for level 'Sound'/Overworld
+[21:17:03] [Server thread/INFO]: Saving chunks for level 'Sound'/Nether
+[21:17:03] [Server thread/INFO]: Saving chunks for level 'Sound'/The End
+[21:17:04] [Client Shutdown Thread/INFO]: Stopping server
+[21:17:04] [Client Shutdown Thread/INFO]: Saving players
